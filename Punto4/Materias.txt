@@ -1,0 +1,6 @@
+001; matematicas; 201
+101; fisica; 201
+213; ciencias; 101
+113; tecnologia; 304
+111; quimica; 204
+112; historia; 302

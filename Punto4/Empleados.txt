@@ -1,0 +1,4 @@
+rafael ospina; 1018417223; Antioquia; Medellin
+andres ospina; 1016254741; Antioquia; Medellin
+ana ospina; 10184446251; Antioquia; Medellin
+carolina ospina; 1037587350; Antioquia; Medellin
